@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/duhruh/stutter.git"
+        "url": "https://github.com/davidrivera/stutter.js.git"
     },
     "dependencies":{
         "buffertools":">=1.1.1", 
