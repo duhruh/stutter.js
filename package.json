@@ -1,0 +1,21 @@
+{
+    "name": "stutter",
+    "main": "index", 
+    "version": "0.0.1",
+    "description": "Stun/Turn server for Node!",
+    "author": {
+        "name": "David Rivera",
+        "email": "David.R.Rivera193@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/duhruh/stutter.git"
+    },
+    "dependencies":{
+        "buffertools":">=1.1.1", 
+        "buffer-crc32":">=0.2.1" 
+    }, 
+    "engines": {
+        "node": ">=0.4.0"
+    }
+}
