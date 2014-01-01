@@ -1,0 +1,17 @@
+{
+    "stun_port":1234, 
+    "turn_port":4321, 
+    "authentication":{
+        "type":"long-term", 
+        "user":"user", 
+        "realm":"realm", 
+        "pass":"pass", 
+        "use":false
+    }, 
+    "software":"stutter.js - RFC5389", 
+    "realm":"stutter", 
+    "fingerprint":false, 
+    "logging":true, 
+    "debug":true, 
+    "backwards_compatibility":false
+}
