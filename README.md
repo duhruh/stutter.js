@@ -1,6 +1,6 @@
 #Stutter.js
 
-RFC-5389 Stun Node.js implementation
+RFC-5389 Stun/Turn Node.js implementation
 
 ## Example
 ```js
@@ -10,3 +10,9 @@ RFC-5389 Stun Node.js implementation
                             authentication:'none'}); 
     Stun.createServer(); 
 ```
+# Still working on
+* Turn capabilities
+* Complete stun implementation
+
+#License
+MIT
